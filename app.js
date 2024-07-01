@@ -292,7 +292,7 @@ const html = `
   <body>
     <div class="main-divs">
         <div class="main-inner-divs" id="main-inner-divs1">
-            <img src="dp.jpg" alt="sahilkuraishi" height="150px" width="150px" class="dp">
+            <img src="https://github.com/sahilkuraishi/express-hello-world/blob/bd2ab335bd4e104cde1f9f5286152eeeb37b65e5/dp.jpg" alt="sahilkuraishi" height="150px" width="150px" class="dp">
             <h1 class="name">Sahil Kuraishi</h1>
             <p class="role">Frontend developer</p>
             <div class="social-media">
