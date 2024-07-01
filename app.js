@@ -335,7 +335,7 @@ const html = `
         <div class="main-inner-divs" id="main-inner-divs2">
             <div class="header-menu">
                 <div class="menus"><a href="https://sahil-portfolio-xgcu.onrender.com/" class="header-anchor">About</a></div>
-                <div class="menus"><a href="https://github.com/sahilkuraishi/express-hello-world/blob/ff1a95b1b6ef5f51cebf468b92777882c05bb2fe/resume.html" class="header-anchor">Resume</a></div>
+                <div class="menus"><a href="resume.html" class="header-anchor">Resume</a></div>
                 <div class="menus"><a href="portfolio.html" class="header-anchor">Portfolio</a></div>
                 <div class="menus"><a href="blog.html" class="header-anchor">Blog</a></div>
                 <div class="menus"><a href="contact.html" class="header-anchor">Contact</a></div>
